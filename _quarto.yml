@@ -1,9 +1,8 @@
 project:
-  type: book        
+  type: book
   output-dir: docs
-  execute-dir: project
   resources:
-    - LICENSE
+    - LICENSE  # Ensures LICENSE is copied to docs/LICENSE
 
 book:
   title: "Including link to license file"
@@ -11,7 +10,9 @@ book:
     - index.qmd
   page-footer:
     right:
-      - text: "Relative path (does not work on github pages)"
+      # not working
+      - text: "Absolute path (fails on GitHub Pages)"
         href: /LICENSE
-      - text: "Hyperlink (does work on github pages)"
+      # external link is current workaround
+      - text: "Full URL (works but not ideal)"
         href: https://github.com/julxi/license_in_github_page/blob/main/LICENSE

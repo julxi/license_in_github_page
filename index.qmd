@@ -1,4 +1,7 @@
-# Prefaces
+# Problem
 
-- how can I include license files in the footer?
+How can I include a link to the LICENSE file in the footer of a Quarto book that:
+- Works both when rendering locally (`quarto render`) and deploying to GitHub Pages (`quarto publish`)
+- does not rely on an external URL
 
+link to github page https://julxi.github.io/license_in_github_page/
