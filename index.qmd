@@ -1,5 +1,5 @@
 # Problem
 
-How can I include a link to the LICENSE file in the footer of a Quarto book that.
+How can I include a link to the LICENSE file in the footer of a Quarto book?
 
-See readme: https://github.com/julxi/license_in_github_page/blob/main/README.md
+Read readme: https://github.com/julxi/license_in_github_page/blob/main/README.md
