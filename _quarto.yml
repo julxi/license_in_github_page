@@ -11,5 +11,7 @@ book:
     - index.qmd
   page-footer:
     right:
-      - text: "© 2025 Julian Bitterlich · MIT License"
+      - text: "Relative path (does not work on github pages)"
         href: /LICENSE
+      - text: "Hyperlink (does work on github pages)"
+        href: https://github.com/julxi/license_in_github_page/blob/main/LICENSE
