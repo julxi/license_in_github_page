@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Including link to license file",
     "section": "",
-    "text": "1 Prefaces\n\nhow can I include license files in the footer?",
+    "text": "1 Problem\nHow can I include a link to the LICENSE file in the footer of a Quarto book that.\nSee readme: https://github.com/julxi/license_in_github_page/blob/main/README.md",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prefaces</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problem</span>"
     ]
   }
 ]
