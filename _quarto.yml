@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   resources:
-    - LICENSE  # Ensures LICENSE is copied to docs/LICENSE
+    - LICENSE  # ensures LICENSE is copied to docs/LICENSE
 
 book:
   title: "Including link to license file"
@@ -13,6 +13,6 @@ book:
       # not working
       - text: "Absolute path (fails on GitHub Pages)"
         href: /LICENSE
-      # external link is current workaround
+      # external link works
       - text: "Full URL (works but not ideal)"
         href: https://github.com/julxi/license_in_github_page/blob/main/LICENSE

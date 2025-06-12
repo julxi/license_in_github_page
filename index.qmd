@@ -1,7 +1,5 @@
 # Problem
 
-How can I include a link to the LICENSE file in the footer of a Quarto book that:
-- Works both when rendering locally (`quarto render`) and deploying to GitHub Pages (`quarto publish`)
-- does not rely on an external URL
+How can I include a link to the LICENSE file in the footer of a Quarto book that.
 
-link to github page https://julxi.github.io/license_in_github_page/
+See readme: https://github.com/julxi/license_in_github_page/blob/main/README.md

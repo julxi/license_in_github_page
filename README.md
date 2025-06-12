@@ -10,7 +10,7 @@ Solution should:
 
 ## Example github page
 
-link to this m(n)we's GitHub Page: https://julxi.github.io/license_in_github_page/
+link to this repos GitHub Page: https://julxi.github.io/license_in_github_page/
 
 - **Left Footer Link:**  
   `href: LICENSE`:
